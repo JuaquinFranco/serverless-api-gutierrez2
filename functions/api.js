@@ -7,9 +7,9 @@ const cors = require('cors');
 const app = express();
 
 // your mongoDB Cloud URL
-const dbCloudUrl = 'mongodb+srv://Jastine-Siena:Jastine30@cluster0.kvmr79p.mongodb.net/';
+const dbCloudUrl = 'mongodb+srv://JuaquinFranco:insence122@cluster0.kvmr79p.mongodb.net/';
 
-//mongodb+srv://Jastine-Siena:Jastine30@cluster0.kwg7ehr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0';
+//mongodb+srv:/JuaquinFranco:insence122@cluster0.kwg7ehr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0';
 
 
 // your mongoDB Cloud URL
